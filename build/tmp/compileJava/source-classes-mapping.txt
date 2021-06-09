@@ -1,0 +1,79 @@
+javaproject/demo/repository/OrderRepository.java
+ javaproject.demo.repository.OrderRepository
+javaproject/demo/controller/WorkerController.java
+ javaproject.demo.controller.WorkerController
+javaproject/demo/service/supplier/interfaces/ISupplierService.java
+ javaproject.demo.service.supplier.interfaces.ISupplierService
+javaproject/demo/dto/SupplierResponse.java
+ javaproject.demo.dto.SupplierResponse
+javaproject/demo/controller/ClientController.java
+ javaproject.demo.controller.ClientController
+javaproject/demo/entities/Worker.java
+ javaproject.demo.entities.Worker
+ javaproject.demo.entities.Worker$WorkerBuilder
+javaproject/demo/service/supplier/impls/SupplierService.java
+ javaproject.demo.service.supplier.impls.SupplierService
+javaproject/demo/service/worker/impls/WorkerService.java
+ javaproject.demo.service.worker.impls.WorkerService
+javaproject/demo/mapper/ProductMapper.java
+ javaproject.demo.mapper.ProductMapper
+javaproject/demo/dto/ProductResponse.java
+ javaproject.demo.dto.ProductResponse
+javaproject/demo/dto/ClientResponse.java
+ javaproject.demo.dto.ClientResponse
+javaproject/demo/repository/ProductRepository.java
+ javaproject.demo.repository.ProductRepository
+javaproject/demo/dto/SupplierRequest.java
+ javaproject.demo.dto.SupplierRequest
+javaproject/demo/service/worker/interfaces/IWorkerService.java
+ javaproject.demo.service.worker.interfaces.IWorkerService
+javaproject/demo/dto/ProductRequest.java
+ javaproject.demo.dto.ProductRequest
+javaproject/demo/repository/ClientRepository.java
+ javaproject.demo.repository.ClientRepository
+javaproject/demo/service/order/impls/OrderService.java
+ javaproject.demo.service.order.impls.OrderService
+javaproject/demo/entities/Supplier.java
+ javaproject.demo.entities.Supplier
+ javaproject.demo.entities.Supplier$SupplierBuilder
+javaproject/demo/entities/Client.java
+ javaproject.demo.entities.Client
+ javaproject.demo.entities.Client$ClientBuilder
+javaproject/demo/service/client/interfaces/IClientService.java
+ javaproject.demo.service.client.interfaces.IClientService
+javaproject/demo/TechnicsApplication.java
+ javaproject.demo.TechnicsApplication
+javaproject/demo/entities/Order.java
+ javaproject.demo.entities.Order
+ javaproject.demo.entities.Order$OrderBuilder
+javaproject/demo/dto/OrderResponse.java
+ javaproject.demo.dto.OrderResponse
+javaproject/demo/service/product/impls/ProductService.java
+ javaproject.demo.service.product.impls.ProductService
+javaproject/demo/service/order/interfaces/IOrderService.java
+ javaproject.demo.service.order.interfaces.IOrderService
+javaproject/demo/service/client/impls/ClientService.java
+ javaproject.demo.service.client.impls.ClientService
+javaproject/demo/configuration/SwaggerConfig.java
+ javaproject.demo.configuration.SwaggerConfig
+javaproject/demo/repository/SupplierRepository.java
+ javaproject.demo.repository.SupplierRepository
+javaproject/demo/controller/SupplierController.java
+ javaproject.demo.controller.SupplierController
+javaproject/demo/dto/ClientRequest.java
+ javaproject.demo.dto.ClientRequest
+javaproject/demo/repository/WorkerRepository.java
+ javaproject.demo.repository.WorkerRepository
+javaproject/demo/entities/Product.java
+ javaproject.demo.entities.Product
+ javaproject.demo.entities.Product$ProductBuilder
+javaproject/demo/mapper/SupplierMapper.java
+ javaproject.demo.mapper.SupplierMapper
+javaproject/demo/service/product/interfaces/IProductService.java
+ javaproject.demo.service.product.interfaces.IProductService
+javaproject/demo/controller/ProductController.java
+ javaproject.demo.controller.ProductController
+javaproject/demo/controller/OrderController.java
+ javaproject.demo.controller.OrderController
+javaproject/demo/mapper/ClientMapper.java
+ javaproject.demo.mapper.ClientMapper

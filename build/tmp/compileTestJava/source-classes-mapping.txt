@@ -1,0 +1,2 @@
+javaproject/demo/TechnicsApplicationTests.java
+ javaproject.demo.TechnicsApplicationTests
